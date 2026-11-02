@@ -1,0 +1,4 @@
+ollama==0.6.3
+pymupdf==2.0.0
+streamlit
+python-pptx
